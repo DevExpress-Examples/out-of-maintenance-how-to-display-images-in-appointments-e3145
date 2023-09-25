@@ -1,1 +1,0 @@
-﻿<%@ WebHandler Language="vb" Class="ImageHandler" %>
